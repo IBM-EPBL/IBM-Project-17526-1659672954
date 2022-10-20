@@ -18,7 +18,7 @@ Team Member 3 - Linga kumar M
 # Kings Engineering College
 
 
-# This repository contains the coding Assignments and Course Deliverables done as follows for this Project oject.
+# This repository contains the coding Assignments and Course Deliverables done as follows for this Project. 
 
 DATA COLLECTION
 
